@@ -1,6 +1,7 @@
 # GSM57
 Full-range speaker audio reference monitor
 
+![RealVSSimulated](https://github.com/mk1nz/GSM57/assets/35996377/edf01554-e4f8-4144-be1e-e4932034a079)
 
 
 # Build instructions
@@ -19,7 +20,12 @@ Port diameter: 24.6mm
 4 - Solder Belden 1307A 16AWG cable directly to the speaker and Amplenol SP-2-MD speaker connector.
 SUGGESTION: The length of the cable should be short to prevent parasitic vibrations inside the speaker cabinet.
 
-5 - Mount speaker and speaker connector to the cabinet.
+5 - Fasten the speaker and speaker connector to the cabinet.
 
 # Parts used in original build:
-
+Cast Frame #8-32 Speaker Mounting Kit 
+Port Tube 1" ID x 4" L Flared 
+Amphenol SP-2-MD Speaker Connector 2 Pole "D" Flange Panel Mount Black 
+Amphenol SP-2-F Loudspeaker Cable Connector 2 Pole
+Belden 1307A 16AWG Сable
+Dayton Audio RS100-8 4" Reference Full-Range Driver 8 Ohm
