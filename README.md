@@ -1,6 +1,9 @@
 # GSM57
 Full-range speaker audio reference monitor
 
+
+![speakers](https://github.com/mk1nz/GSM57/assets/35996377/41535d2a-99e4-4c6b-9f32-b7cc7c9d57b5)
+
 ![RealVSSimulated](https://github.com/mk1nz/GSM57/assets/35996377/edf01554-e4f8-4144-be1e-e4932034a079)
 
 
