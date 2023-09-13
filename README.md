@@ -31,4 +31,4 @@ Port Tube 1" ID x 4" L Flared
 Amphenol SP-2-MD Speaker Connector 2 Pole "D" Flange Panel Mount Black 
 Amphenol SP-2-F Loudspeaker Cable Connector 2 Pole
 Belden 1307A 16AWG Сable
-Dayton Audio RS100-8 4" Reference Full-Range Driver 8 Ohm
+Dayton Audio RS100-8 4" Reference Full-Range Driver 8 Ohm 
