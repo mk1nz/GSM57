@@ -1,6 +1,6 @@
 # GSM57
 Full-range speaker audio reference monitor
-
+https://www.youtube.com/watch?v=8o_F5kkb7Os
 
 ![speakers](https://github.com/mk1nz/GSM57/assets/35996377/41535d2a-99e4-4c6b-9f32-b7cc7c9d57b5)
 
