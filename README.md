@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=8o_F5kkb7Os
   WARNING: Inkscape Vector Graphic Editor renders incorrect lengths. 
 
   1 - Cut speaker cabinet parts using CNC router.\
-    IMPORTANT: The area between circles on the baffle needs to be carved using CNC by 3mm.\
+    IMPORTANT: The area between circles on the baffle needs to be carved using CNC by 3mm. The thickness of the enclosure material should be 18mm.\
     WARNING: СNC drawings NOT include chamfers. Type and chamfer style at the discretion of the DIYer.
 
   2 - Glue speaker cabinet parts together.\
